@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-import AppHeader from "./components/app-header";
+import AppHeader from "./components/app-header/";
 import SearchPanel from "./components/search-panel";
 import TodoList from "./components/todo-list";
 import ItemStatusFilter from "./components/item-status-filter";
